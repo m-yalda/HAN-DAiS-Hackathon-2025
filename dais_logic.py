@@ -44,7 +44,7 @@ def setup_llm():
 llm = setup_llm()
 
 # Functie om antwoorden te genereren op basis van vraag en content type
-def stuur_vraag_naar_llm(vraag_nummer, content_type, custom_prompt=None):
+def stuur_vraag_naar_llm(vraag_nummer, content_type=3, custom_prompt=None):
     """
     Genereert een antwoord op een vraag met behulp van het LLM
     op basis van het gekozen content type.

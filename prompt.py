@@ -52,3 +52,8 @@ prompt = """
 # other_information
 - The current date and time is 31-03-2025 12:00
 """
+
+
+custom_prompt = """
+abcdef
+"""
