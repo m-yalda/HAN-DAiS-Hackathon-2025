@@ -1,13 +1,13 @@
 # vraag 1
-vraag1 = "Hoe sluit ik ANWB Energie af?"
+vraag = "Hoe sluit ik ANWB Energie af?"
 
 # het antwoord op vraag 1 in het huidige chat systeem
-antwoord1 = """
+antwoord = """
 Een dynamisch energiecontract van de ANWB sluit je gemakkelijk zelf online af. In de eerste stap bereken je jouw maandbedrag. Daarna krijg je een prijsvoorstel en kies je een ingangsdatum. Het contract bij ANWB Energie is maandelijks opzegbaar. Je zit er dus geen jaar of langer aan vast. Er is één maand opzegtermijn.
 """
 
 # content behorende bij vraag 1 afkomstig van de website
-web_content1 = """
+web_content = """
 # Verhuizen: je energiecontract opzeggen of meenemen?
 ## Een verhuizing doorgeven via Mijn ANWB Energie
 Ben je al klant bij [ANWB Energie](/energie/) en wil je ook dat op jouw nieuwe adres blijven? Dan werkt het als volgt:
@@ -59,7 +59,7 @@ Ga je **verhuizen** en vraag je een energiecontract aan voor je nieuwe adres? In
 """
 
 # de bronnen behorende bij web_content1
-web_bronnen1 = [
+web_bronnen = [
     "www.anwb.nl/energie/verhuizen-energiecontract",
     "www.anwb.nl/energie/energiecontract-opzeggen",
     "www.anwb.nl/energie/hoe-werkt-anwb-energie",
@@ -68,7 +68,7 @@ web_bronnen1 = [
     ]
 
 # content behorende bij vraag 1 afkomstig van de huidige chatbot
-chat_content1 = """
+chat_content = """
 Bij een adreswijziging voor ANWB Energie zeg je het oude contract op, en vraag je vervolgens een nieuw contract aan. Dat werkt als volgt:
 1. Log in bij [Mijn ANWB Energie](https://energie.anwb.nl/login?_ga=2.75887957.1594903076.1693813043-1998397442.1688645267&_gac=1.162510030.1694003835.Cj0KCQjwxuCnBhDLARIsAB-cq1pjjAgJGb-7w_teEd_kdkhJNhTuPeP1ujL6x5ljcmECQiRqOn_Hc2MaAtJOEALw_wcB&_gl=1*47053l*_ga*MTk5ODM5NzQ0Mi4xNjg4NjQ1MjY3*_ga_9ZJ9JFZNEG*MTY5NDAwMjY1NC4xMDIuMS4xNjk0MDA3MTgzLjAuMC4w*_fplc*R3h1MndkNkRTTDVwV0dNQWlud29VSEVPbWZ6bndDazE1ZlRBRWhERHpGQVhXU08lMkZJRW5NYThiekpkNjRjdXRReUxWV0lEZmlHJTJGMlFId2t5eGtBdGdyQTZHQ0lwaEVVd2ZTeWVDbUpGV2tJUGFLQkNhNndZTURlNHM0NVdNdyUzRCUzRA.)
 2. Klik rechtsboven op je huidige adres en ga naar 'contract toevoegen'
@@ -87,6 +87,6 @@ ANWB Energie werkt niet met langlopende contracten. Daardoor is het maandelijks 
 Lees alles over de [voordelen van ANWB Energie](https://www.anwb.nl/huis/energie/anwb-energie/voordelen).
 """
 
-aangepaste_content1 = """
+aangepaste_content = """
 
 """

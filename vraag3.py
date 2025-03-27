@@ -1,13 +1,13 @@
 # vraag 3
-vraag3 = "Welke wegenwachtpakketten zijn er?"
+vraag = "Welke wegenwachtpakketten zijn er?"
 
 # het antwoord op vraag 3 in het huidige chat systeem
-antwoord3 = """
+antwoord = """
 Als je gebruik wilt maken van de Wegenwacht Service, dan kun je kiezen uit 3 Wegenwachtpakketten per dekkingsgebied: Instap, Standaard en Compleet. De dekkingsgebieden zijn Nederland, Europa en Europa Plus. Lees meer over de Wegenwachtpakketten of gebruik de keuzehulp om je ideale pakket te vinden.
 """
 
 # content behorende bij vraag 3 afkomstig van de website
-web_content3 = """
+web_content = """
 # De services van de Wegenwacht
 ### Alle Wegenwacht auto pakketten op een rijtje
 [](/wegenwacht/instap)[Wegenwacht Nederland Instap](/wegenwacht/instap)Met dit pakket kun je rekenen op pechhulp in Nederland, buiten je woonplaats, ongeacht de leeftijd van je auto of motor.
@@ -83,14 +83,14 @@ Wil je meer weten? [Bekijk de voorwaarden](/wegenwacht/service/voorwaarden).
 
 
 # de bronnen behorende bij web_content3
-web_bronnen3 = [
+web_bronnen = [
     "www.anwb.nl/wegenwacht/service/de-wegenwacht-pakketten",
     "www.anwb.nl/wegenwacht/actie/jongerenpas",
     "www.anwb.nl/wegenwacht/jongeren/europa",
 ]
 
 # content behorende bij vraag 3 afkomstig van de huidige chatbot
-chat_content3 = """
+chat_content = """
 Als je gebruik wilt maken van de Wegenwacht Service, dan kun je kiezen uit 3 Wegenwachtpakketten per dekkingsgebied: Instap, Standaard en Compleet.
 De dekkingsgebieden zijn Nederland, Europa en Europa Plus.
 Lees meer over de [Wegenwachtpakketten](https://www.anwb.nl/wegenwacht) of gebruik de [keuzehulp ](https://www.anwb.nl/wegenwacht/keuzehulp)om je ideale pakket te vinden.
@@ -104,6 +104,6 @@ Heb je al Wegenwacht, maar weet je niet meer welk pakket je hebt? Check dan jouw
 """
 
 
-aangepaste_content3 = """
+aangepaste_content = """
 
 """

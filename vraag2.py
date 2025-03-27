@@ -1,13 +1,13 @@
 # vraag 2
-vraag2 = "Heb ik een tolvignet nodig?"
+vraag = "Heb ik een tolvignet nodig?"
 
 # het antwoord op vraag 2 in het huidige chat systeem
-antwoord2 = """
+antwoord = """
 In meerdere landen in Europa moet je tol betalen als je gebruik maakt van bepaalde (snel)wegen. Hoe dit precies is geregeld en hoe je dit betaalt, is per land vaak verschillend. We hebben alle informatie over tol in verschillende Europese landen gebundeld voor je klaar staan in de ANWB Reiswijzer. Via de ANWB Routeplanner krijg je een indicatie van de tolkosten op de door jouw gekozen route.
 """
 
 # content behorende bij vraag 2 afkomstig van de website
-web_content2 = """
+web_content = """
 # Milieustickers & tolvignetten
 ## Waar heb ik een tolvignet nodig?
 Voor Oostenrijk en Zwitserland verkoopt ANWB de vignetten online of in de winkel. Voor alle andere landen moet je de e-vignetten extern kopen.
@@ -60,7 +60,7 @@ Voor motoren is geen e-vignet nodig.
 
 
 # de bronnen behorende bij web_content2
-web_bronnen2 = [
+web_bronnen = [
     "www.anwb.nl/vakantie/reisvoorbereiding/reisdocumenten/vignet",
     "www.anwb.nl/vakantie/spanje/reisvoorbereiding/tol",
     "www.anwb.nl/vakantie/tsjechie/reisvoorbereiding/tol",
@@ -70,7 +70,7 @@ web_bronnen2 = [
 
 
 # content behorende bij vraag 2 afkomstig van de huidige chatbot
-chat_content2 = """
+chat_content = """
 Voor het gebruik van autowegen in Hongarije is een vignet verplicht. Dit staat ook bekend als e-vignet of e-matrica. Dit vignet kun je onder andere aanschaffen bij grensovergangen en tankstations. Lees alles over de [tarieven en verschillende categorieën](https://www.anwb.nl/vakantie/hongarije/informatie/tol).
 
 
@@ -81,6 +81,6 @@ Voor een aanhanger (totaalgewicht tot 3500 kg) moet bovendien een apart vignet w
 
 
 
-aangepaste_content2 = """
+aangepaste_content = """
 
 """

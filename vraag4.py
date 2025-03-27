@@ -1,8 +1,8 @@
 # vraag 4
-vraag4 = "Hoe activeer ik de ANWB Laadpas?"
+vraag = "Hoe activeer ik de ANWB Laadpas?"
 
 # het antwoord op vraag 4 in het huidige chat systeem
-antwoord4 = """
+antwoord = """
 Je laadpas activeren doe je op deze manier:
 1. Download de ANWB Laadpas app. Zonder deze app kun je jouw laadpas niet activeren
 2. Tijdens jouw laadpas-aanvraag heb je een account gemaakt. Log in met deze gegevens
@@ -14,7 +14,7 @@ Kom je er niet uit of krijg je een foutmelding, neem dan contact op met het Lede
 
 
 # content behorende bij vraag 4 afkomstig van de website
-web_content4 = """
+web_content = """
 # Activeer je ANWB Laadpas
 ## Stappenplan laadpas activeren
 1. Download de ANWB Laadpas app in de app store. Klik [hier voor Android](https://play.google.com/store/apps/details?id=nl.anwb.laadpas) of [hier voor Apple](https://itunes.apple.com/nl/app/id6456485951?mt=8).
@@ -40,13 +40,13 @@ Bekijk je deze pagina op je smartphone, dan kan je via onderstaande knoppen de a
 
 
 # de bronnen behorende bij web_content4
-web_bronnen4 = [
+web_bronnen = [
     "www.anwb.nl/auto/elektrisch-rijden/laadpas-abonnement/activeren-laadpas",
     "www.anwb.nl/auto/elektrisch-rijden/laadpas-abonnement/app",
 ]
 
 # content behorende bij vraag 4 afkomstig van de huidige chatbot
-chat_content4 = """
+chat_content = """
 Je laadpas activeren doe je op deze manier:
 1. Download de [ANWB Laadpas app](https://www.anwb.nl/auto/elektrisch-rijden/laadpas-abonnement). Zonder deze app kun je jouw laadpas **niet** activeren
 2. Tijdens jouw laadpas-aanvraag heb je een account gemaakt. Log in met deze gegevens
@@ -62,6 +62,6 @@ Kom je er niet uit, neem dan contact op met het Leden Service Center via of mail
 """
 
 
-aangepaste_content4 = """
+aangepaste_content = """
 
 """

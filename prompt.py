@@ -55,5 +55,5 @@ prompt = """
 
 
 custom_prompt = """
-abcdef
+
 """
